@@ -1,7 +1,15 @@
 h1 {
       text-align: center;
 }
+option
+{
+    transition:background-color .1s linear;
+}
+option:hover
+{
 
+    background-color:green;
+}
 div#banner.container {
      padding-top: 50px;
 }
